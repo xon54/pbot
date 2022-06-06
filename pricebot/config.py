@@ -1,13 +1,13 @@
 import os
 
 # the token of your bot
-TOKEN_BOT = 'put_your_here'
+TOKEN_BOT = '5484368713:AAF1aSo-at6BjusjzG2Q48uCqaDPLij6his'
 
 # do APIs requests with pause
 TIME_INTERVAL = 3600
 
 # new pro API CoinMarketCap Key
-CMC_API_KEY = "put_your_here"
+CMC_API_KEY = "3d5c9ac0-e739-42cd-8592-67d46f999033"
 COINMARKET_API_URL_GLOBAL = 'https://pro-api.coinmarketcap.com/v1/global-metrics/quotes/latest' \
                             '?CMC_PRO_API_KEY={}'
 COINMARKET_API_URL_COINLIST = 'https://pro-api.coinmarketcap.com/v1/cryptocurrency/listings/latest?start=1&limit=5000' \
